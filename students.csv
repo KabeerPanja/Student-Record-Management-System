@@ -1,0 +1,11 @@
+student_id,first_name,last_name,age,grade,email,enrollment_date,score
+S001,Ali,Khan,15,B,ali.khan@example.com,2023-08-15,88
+S002,Ayesha,Ahmed,16,A,ayesha.ahmed@example.com,2022-09-10,92
+S003,Usman,Shah,14,C,usman.shah@example.com,2023-01-20,75
+S004,Sara,Latif,15,B,sara.latif@example.com,2023-06-05,81
+S005,Hassan,Ali,17,B,hassan.ali@example.com,2021-12-12,95
+S006,Zara,Naeem,16,D,zara.naeem@example.com,2022-05-22,67
+S007,Omar,Hussain,15,C,omar.hussain@example.com,2023-03-30,78
+S008,Inaya,Rashid,14,B,inaya.rashid@example.com,2023-07-18,85
+S009,Farhan,Imran,17,A,farhan.imran@example.com,2021-11-25,90
+S010,Noor,Fatima,16,B,noor.fatima@example.com,2022-08-08,82
